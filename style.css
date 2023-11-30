@@ -1,0 +1,31 @@
+body{
+    background-size: cover;
+}
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+.note{
+    font-size: 15px;
+    color: aquamarine;
+}
+.class_vol{
+    float: right;
+
+}
+.vol_png,.speed_png{
+    width: 200px;
+    border-radius: 100px;
+}
+.class_speed{
+    float: left;
+}
+canvas{
+    border: 5px solid black;
+    
+}
+button{
+
+width: 130px;
+}
